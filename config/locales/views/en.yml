@@ -2777,7 +2777,7 @@ en:
     prev: "← Previous"
   people:
     search_form:
-      all_fields_help_title: People search all fields help
+      all_fields_help_title: People search all fields
   potential_matches:
     in_progress:
       cancel: Cancel Potential Match Generation
